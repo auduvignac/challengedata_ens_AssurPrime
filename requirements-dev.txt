@@ -1,0 +1,8 @@
+# requirements-dev.txt
+-r requirements.txt
+jupyter_contrib_nbextensions
+pre-commit
+black[jupyter]
+isort
+flake8
+nbqa

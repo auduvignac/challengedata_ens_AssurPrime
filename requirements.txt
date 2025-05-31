@@ -1,0 +1,10 @@
+# requirements.txt
+category-encoders
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+xgboost
+scipy
+ipython
