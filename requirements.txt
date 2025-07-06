@@ -1,10 +1,17 @@
 # requirements.txt
-category-encoders
-matplotlib
+# Traitement de données
 numpy
 pandas
-scikit-learn
-seaborn
-xgboost
 scipy
+
+# Visualisation
+matplotlib
+seaborn
+
+# Machine Learning
+category-encoders
+scikit-learn
+xgboost
+
+# Notebook & affichage
 ipython
